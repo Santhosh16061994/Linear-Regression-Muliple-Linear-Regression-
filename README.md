@@ -22,3 +22,12 @@ more than one independent variable
 
 ![image](https://github.com/Santhosh16061994/Linear-Regression-Muliple-Linear-Regression-/assets/120988989/032b5346-70d0-4c7e-9842-6820be73a559)
 
+
+here we have an advertising dataset.
+In which,
+Independent variables are TV, Newspaper, and Radio.
+The dependent variable is Sales.
+
+We have to predicte the by which Sales.
+
+
